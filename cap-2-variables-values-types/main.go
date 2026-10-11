@@ -8,9 +8,19 @@ func main() {
 
 	//var name string = "jonas"
 
-	println(err)
+	fmt.Println(err)
 
 	hasError := err != nil
 
-	print("Has error?", hasError)
+	fmt.Println("Has error?", hasError)
+
+	x := 10
+	y := "This is  a text"
+
+	y, z := "This is other text", 0.12
+
+	fmt.Printf("value: %v, Type: %T \n Value: %v, Type: %T \n", x, x, y, y)
+
+	fmt.Println(z)
+	
 }
