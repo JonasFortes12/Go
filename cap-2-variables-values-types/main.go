@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+var global int = 100
+
 func main() {
 
 	_, err := fmt.Println("Hello World!")
@@ -22,5 +24,15 @@ func main() {
 	fmt.Printf("value: %v, Type: %T \n Value: %v, Type: %T \n", x, x, y, y)
 
 	fmt.Println(z)
-	
+
+	otherScope(z)
+
+}
+
+func otherScope(x float64) {
+
+	fmt.Println(x)
+
+	fmt.Println(global)
+
 }
