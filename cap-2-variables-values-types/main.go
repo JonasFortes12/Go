@@ -6,6 +6,8 @@ func main() {
 
 	//ZeroValues()
 
-	FmtMethods()
+	//FmtMethods()
+
+	CreatingTypes()
 
 }
