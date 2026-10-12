@@ -4,6 +4,8 @@ func main() {
 
 	//VariableTypes()
 
-	ZeroValues()
+	//ZeroValues()
+
+	FmtMethods()
 
 }
