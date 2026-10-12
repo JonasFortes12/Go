@@ -1,4 +1,4 @@
-package main
+package cap2variablesvaluestypes
 
 import (
 	"fmt"

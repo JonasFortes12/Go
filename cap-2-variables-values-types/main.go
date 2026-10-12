@@ -1,6 +1,6 @@
-package main
+package cap2variablesvaluestypes
 
-func main() {
+func Cap2VariablesValuesTypes() {
 
 	//VariableTypes()
 
@@ -9,5 +9,4 @@ func main() {
 	//FmtMethods()
 
 	CreatingTypes()
-
 }
