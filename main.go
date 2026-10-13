@@ -1,7 +1,7 @@
 package main
 
 import (
-	cap5 "goCourse/cap5-exercises-level-02"
+	cap5 "goCourse/cap-5-exercises-level-02"
 )
 
 func main() {
