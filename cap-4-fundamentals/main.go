@@ -3,6 +3,12 @@ package cap4fundamentals
 func Cap4fundamentals() {
 	//RuneAndBytes()
 
-	Strings()
+	//Strings()
+
+	//NumberSystem()
+
+	// Constants()
+
+	IotasAndBitDislocations()
 
 }
