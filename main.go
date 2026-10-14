@@ -1,7 +1,7 @@
 package main
 
 import (
-	cap6 "goCourse/cap-6-control-flow"
+	cap7 "goCourse/cap-7-exercises-level-03"
 )
 
 func main() {
@@ -26,6 +26,8 @@ func main() {
 
 	//cap6.Cap6ControlFlow()
 
-	cap6.Switch()
+	//cap6.Switch()
+
+	cap7.Exerc08()
 
 }
