@@ -1,7 +1,7 @@
 package main
 
 import (
-	cap7 "goCourse/cap-7-exercises-level-03"
+	cap8 "goCourse/cap-8-data-group"
 )
 
 func main() {
@@ -28,6 +28,8 @@ func main() {
 
 	//cap6.Switch()
 
-	cap7.Exerc08()
+	//cap7.Exerc08()
+
+	cap8.Cap8DataGroup()
 
 }
